@@ -33,12 +33,12 @@ global.APIKeys = {
 
 global.alivemsg ="HI I'M  ⚜️𝘋𝘈𝘙𝘒 𝘕𝘌𝘙𝘖 𝘔𝘋⚜️"
                      
-global.alivepic = "https://i.ibb.co/8N6fR4X/Whats-App-Image-2022-09-17-at-21-22-46.jpg" //you logo key 
+global.alivepic = "https://i.ibb.co/99CXGVh/pexels-photo-5377684.jpg" //you logo key 
 
 
-global.ownername = " KAVEESHA " //ur owner name
-global.owner = ['94774579505','']
-global.premium = ['94774579505','94774579505']
+global.ownername = " N͓̽i͓̽m͓̽e͓̽s͓̽h͓̽ " //ur owner name
+global.owner = ['94713109257','']
+global.premium = ['94713109257','94713109257']
 global.botname = '𝙳⃝𝙰𝚁𝙺 𝙽⃟𝙴𝚁𝙾 𝙼⃝𝙳'
 global.ownername = '𝙳⃝𝙰𝚁𝙺 𝙽⃟𝙴𝚁𝙾 𝙼⃝𝙳'
 global.group1 = 'https://chat.whatsapp.com/GkAmtuJ4jFE6axiNjoSiCX'
